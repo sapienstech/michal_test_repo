@@ -2,7 +2,7 @@
 
 def nodeLabel = 'SpotChrome'
 
-decision_ng_commmon (nodeLabel,
+michal_test_app (nodeLabel,
   'html5-ci',
   'jdk11'
 )
